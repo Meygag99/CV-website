@@ -1,0 +1,13 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of possible attributes.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node-terminal",
+            "request": "launch",
+            "name": "Open site in browser",
+            "command": "cmd /c start http://localhost:5173"
+        }
+    ]
+}
